@@ -1,0 +1,11 @@
+.fb-imgs{
+  height:180px;
+  width:150px;
+  position: relative;
+  right:40px;
+}
+.details{
+  text-align: center;
+  position: relative;
+  bottom:300px;
+}
