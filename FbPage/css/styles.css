@@ -1,0 +1,19 @@
+.fb-imgs{
+  height:180px;
+  width:150px;
+  position: relative;
+  right:40px;
+}
+.details{
+  text-align: center;
+  position: relative;
+  bottom:300px;
+}
+.name{
+  height:20px;
+  width:200px;
+}
+.age{
+  height:20px;
+  width:200px;
+}
